@@ -9,3 +9,7 @@ In a non inline popup, the html() method is executed each time the popup is show
 If a popup is inline it will be created next to current element, allowing for local css rules to apply. It will not be removed from the DOM after being hidden. 
 
 Otherwise a non inline popup will appended to body and be removed after being hidden.
+
+```
+var a = {}
+```
