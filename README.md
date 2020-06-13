@@ -11,5 +11,6 @@ If a popup is inline it will be created next to current element, allowing for lo
 Otherwise a non inline popup will appended to body and be removed after being hidden.
 
 ```
+// JS code
 var a = {}
 ```
